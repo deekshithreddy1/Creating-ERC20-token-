@@ -9,6 +9,7 @@ node_modules/
 # Hardhat files
 cache/
 artifacts/
+.vscode/
 
 # Coverage
 coverage/
