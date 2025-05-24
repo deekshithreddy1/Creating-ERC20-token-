@@ -1,0 +1,19 @@
+# .gitignore
+
+# Dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Hardhat files
+cache/
+artifacts/
+
+# Coverage
+coverage/
+coverage.json
+
+# OS generated files
+.DS_Store
+Thumbs.db
